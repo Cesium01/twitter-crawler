@@ -40,6 +40,7 @@ userid| CHAR(30)| str   |推特用户的screen_name|
 latest| CHAR(19)| str   |最新推文id|
 number| INT    |  int   |关注者数目|
 time  |DATETIME|datetime.datetime|记录时间 |
+
 录入推特用户数据
 ----
 **name, userid这两个字段必须设置初始值**
