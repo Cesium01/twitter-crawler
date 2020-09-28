@@ -30,7 +30,7 @@ CREATE TABLE IF NOT EXIST `followers` (
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 ```  
-####字段解释
+字段解释
 字段名  | 类型 |Python类型|备注 |
 ------ | :----:|:------:|:----:|
 id     | INT   |  int   ||
