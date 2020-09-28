@@ -9,7 +9,8 @@
 
 注意事项
 ---
-请勿利用本程序从事任何违法行为，**尤其不要攻击推特服务器**，不当使用造成的一切后果由使用者自行承担
+请勿利用本程序从事任何违法行为，**尤其不要攻击推特服务器**，不当使用造成的一切后果由使用者自行承担  
+Please do not use this program to engage in any illegal acts, especially do not attack the Twitter server, all consequences caused by improper use shall be borne by the user.
 
 买一送一
 ----
