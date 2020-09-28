@@ -19,11 +19,10 @@ import uuid
 import pymysql
 import subprocess
 from urllib import parse
+from requests.exceptions import ProxyError
 
 
 # 对应数据表的`name`字段
-from requests.exceptions import ProxyError
-
 nananiji = ['天城莎莉','海乃琉璃','河濑诗','仓冈水巴','凉花萌','高辻丽','武田爱奈','帆风千春','宫濑玲奈']  # 某个组合
 kukugumi = ['小山百代','三森铃子','富田麻帆','佐藤日向','岩田阳葵','小泉萌香','相羽爱奈','生田辉','伊藤彩沙']
 Aqours = ['伊波杏树','逢田梨香子','诹访奈奈香','小宫有纱','齐藤朱夏','小林爱香','高槻加奈子','铃木爱奈','降幡爱']
