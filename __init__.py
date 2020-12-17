@@ -50,7 +50,7 @@ class Gettwi:
         'Host': 'twitter.com',
         'Connection': 'keep-alive',
         # UA，可以复制浏览器信息里的UA
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36',
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko)',
         'DNT': '1',
         'Accept': '*/*',
         'Accept-Encoding': 'gzip, deflate',
